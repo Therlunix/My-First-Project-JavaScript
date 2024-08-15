@@ -1,0 +1,19 @@
+type: sorting
+options:
+  - <code>!</code>
+  - <code>&amp;&amp;</code>
+  - <code>||</code>
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8474#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 15 Aug 2024 14:08:19 UTC"
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
